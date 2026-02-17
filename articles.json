@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "cat": "International & Europe",
+    "title": "Titre de l'article",
+    "summary": "Accroche de l'article.",
+    "body": "Texte complet du premier paragraphe.\n\nTexte du deuxième paragraphe.",
+    "date": "17 fév. 2026"
+  }
+]
